@@ -1,0 +1,11 @@
+# Ignore dependencies and build
+node_modules
+.next
+
+# Ignore local env
+.env.local
+
+
+
+
+
